@@ -1,4 +1,4 @@
-# 🍽️ Restaurant API
+# 🍽️ Restaurant-APP
 
 A **RESTful API** built with **Node.js** and **Express** to manage restaurants, menu items, categories, and orders.  
 It allows users to register, login, place orders, and view meals, while restaurants and admins can manage menu items and categories securely.
